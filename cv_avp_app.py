@@ -155,5 +155,5 @@ st.markdown('''
 ## Social Media
 ''')
 
-txt2('LinkedIn','')
-txt2('GitHub','')
+txt2('LinkedIn','https://www.linkedin.com/in/avaldezp/')
+txt2('GitHub','https://github.com/sebastianVP')
