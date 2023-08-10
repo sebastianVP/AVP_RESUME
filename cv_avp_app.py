@@ -1,7 +1,8 @@
 import streamlit as st
 from PIL import Image
 
-with open("C:/Users/soporte/worspace/AVP_resume/style.css",'r') as f:
+#with open("C:/Users/soporte/worspace/AVP_resume/style.css",'r') as f:
+with open("style.css",'r') as f:
    st.markdown('<style>{}</style>'.format(f.read()),unsafe_allow_html=True)
 
 #########################
