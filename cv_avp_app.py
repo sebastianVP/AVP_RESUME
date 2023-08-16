@@ -174,7 +174,7 @@ st.markdown('''
 ## Skills
 ''')
 
-txt3('Programming','`Python`,`Linux`')
+txt3('Programming','`Python`,`C++`,`Linux`')
 txt3('Data processing','`numpy`,`pandas`,`SQL`')
 txt3('Data visualization','`matplotlib`,`seaborn`,`plotly`')
 txt3('Machine Learning','`scikit-learn`')
