@@ -23,7 +23,7 @@ st.info('''
 - Track record of success in developing libraries for signal processing and designing acquisition radars systems.
 - Research engineer with extensive knowledge in engineering principles, leadership and application 
 research apply within government institutions.
-- Project leader with the ability to build productive cross-functional teamas.
+- Project leader with the ability to build productive cross-functional teams.
 ''')
 #####################
 # Navigation
@@ -117,7 +117,7 @@ st.markdown('''
 txt('**Radar Specialist**, Instituto Geofisico del Peru' , '2020- Present')
 
 st.markdown('''
-- Radar SOPHy: Scaning-system for Observations of Peruvian Hydrometerological-event, Monitoring and maintenance.
+- Radar SOPHy: Scanning-system for Observations of Peruvian Hydrometeorological-event, Monitoring and maintenance.
 [SOPHy](https://doi.org/10.1109/INCAS53599.2021.9666928)
 - Project Weather Radar: Equipment design and integration to operate the `1st` Meteorological Radar developed in Peru - SOPHy.
 - Project Signal Chain: Develop libraries  for radar data processing.
@@ -130,7 +130,7 @@ st.markdown('''
 - Project HF Systems: Reading Module development information, process data and plots results. Monitor operation of  transmission and reception stations in different locations within Peru.
 - Project TIDDBIT Systems: Monitor status and perform maintenance of transmission stations.
 - Project Automatic Beam  Switching: Software test development and hardware with high voltage test and control modules with RF Modules.
-- Porject Monitoring Systems and Early Warming of Alluvium: Development of a prototype, design and development of the software acquisition and monitoring, including the development of a Web Interface and field testing.  
+- Project Monitoring Systems and Early Warming of Alluvium: Development of a prototype, design and development of the software acquisition and monitoring, including the development of a Web Interface and field testing.  
 - Operation, maintenance and  supervision of the Early Alert System installed in the JRO.
 ''')
 
